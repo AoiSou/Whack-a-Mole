@@ -7,11 +7,6 @@ using Random = UnityEngine.Random;
 
 public class MoveMoles : MonoBehaviour
 {
-    //制限時間は30秒
-    
-    //ルール
-    //publicの変数と関数は大文字開始
-    
     //Moleのオブジェクト
     public List<GameObject>Moles=new List<GameObject>();
     //Moleが動いているかどうか判定

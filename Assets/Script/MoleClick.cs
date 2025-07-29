@@ -6,7 +6,6 @@ using UnityEngine;
 
 public class MoleClick : MonoBehaviour
 {
-    //MoleManagerに書くとMoleManagerのオブジェクトに触れないといけないので分けましょう
     public static bool IsClicked = false;
     
     void OnMouseDown()
